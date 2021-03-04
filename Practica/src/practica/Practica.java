@@ -16,6 +16,9 @@ public class Practica {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String nombre;
+        String apellido; 
+        //Editado desde la web
     }
     
 }
